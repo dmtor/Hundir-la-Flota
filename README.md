@@ -1,4 +1,4 @@
-![Titulo](Titulo.png)
+![Titulo](Titulo.jpeg)
 
 **Descripción del proyecto:**
 Este proyecto consiste en un entregable desarrollado para el bootcamp de Data Science de The Bridge para mostrar las habilidades adquiridas de programación en Python. El código consiste en el juego "Hundir la Flota", donde un jugador/a se bate en duelo con la consola. Los barcos de ambos jugadores de colocarán de forma aleatoria en un tablero de 10x10 posiciones y, por turnos, dispararán a las posiciones con el objetivo de hundir la flota completa del enemigo.
